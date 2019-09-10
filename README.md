@@ -3,4 +3,4 @@
 
 Web statis yang berisi Perjalanan hidup Bapak pendiri bangsa Ir. Soekarno ⏱
 
-Dibuat menggunakan CSS dan HTML murni
+Dibuat menggunakan CSS dan HTML murni. Untuk websitenya dapat diakses melalui https://niscita-soekarno.netlify.com
